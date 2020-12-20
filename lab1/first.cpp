@@ -4,7 +4,7 @@
     Class: csc1710
     Location of program: ~/csc1710/lab1/first.cpp
  
-    This is the infamous Hello World program. 
+    This is the infamous Hello World program 
 */
 #include<iostream>
 using namespace std;
